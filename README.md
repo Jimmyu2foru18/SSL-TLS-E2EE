@@ -7,7 +7,7 @@ The protocol moves from the "Open-Door" policy of the 1970s PSTN to a **"Proof-o
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 * **Cryptographic Identity:** Every phone number is tied to a unique Public Key verified via SMS-OTP.
 * **End-to-End Encryption (E2EE):** All message payloads are encrypted locally using Libsodium (XSalsa20).
@@ -17,7 +17,7 @@ The protocol moves from the "Open-Door" policy of the 1970s PSTN to a **"Proof-o
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 The system is divided into three primary tiers:
 
@@ -27,7 +27,7 @@ The system is divided into three primary tiers:
 
 ---
 
-## 🚀 Quick Start (Developer Mode)
+## Quick Start (Developer Mode)
 
 ### 1. Clone the Repository
 ```bash
