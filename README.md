@@ -39,9 +39,9 @@ cd SSL-TLS-E2EE
 Create a `.env` file in the `/server` directory:
 ```env
 PORT=3000
-DATABASE_URL=postgres://user:pass@localhost:5432/
-REDIS_URL=redis://localhost:6379
-SMS_PROVIDER_API_KEY=your_twilio_key_here
+DATABASE_URL=postgres://user:pass@localhost:
+REDIS_URL=redis://localhost:
+SMS_PROVIDER_API_KEY=your_key_here
 ```
 
 ### 3. Install & Launch
