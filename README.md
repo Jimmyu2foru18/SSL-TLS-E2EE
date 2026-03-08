@@ -1,6 +1,6 @@
 # Cryptographically Verified Telephony
 
-a zero-trust communication protocol designed to solve the global crisis of SMS spam and identity spoofing. By binding a phone number (MSISDN) to a hardware-backed Ed25519 key pair, 
+A zero-trust communication protocol designed to solve the global crisis of SMS spam and identity spoofing. By binding a phone number (MSISDN) to a hardware-backed Ed25519 key pair, 
 a phone number is no longer a public target, but a secure, private endpoint.
 
 The protocol moves from the "Open-Door" policy of the 1970s PSTN to a **"Proof-of-Permission"** model for the 21st century.
