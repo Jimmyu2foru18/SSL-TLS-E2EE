@@ -1,4 +1,4 @@
-# Cryptographically Verified Telephony
+# A Cryptogrophy App Project
 
 A zero-trust communication protocol designed to solve the global crisis of SMS spam and identity spoofing. By binding a phone number (MSISDN) to a hardware-backed Ed25519 key pair, 
 a phone number is no longer a public target, but a secure, private endpoint.
